@@ -9,7 +9,7 @@ User will need to adjust lines 3, 7, 20, 21.<br>
 Line 3: Change number to the desired week. <br>
 Line 7: You can add a description to the form. You can remove this if not needed. <br>
 Line 20: Paste the Google Sheets ID. The spreadsheet should be in the form [Week, Day, Away, Home] <br>
-Line 21: Adjust the data range from the spreadsheet. <br>
+Line 21: Adjust the data range of the spreadsheet (if you make changes to the csv file). <br>
 <br>
 
 -------------------
