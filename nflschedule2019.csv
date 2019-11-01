@@ -1,0 +1,257 @@
+﻿Week,Day,Away,Home
+1,Thu,Green Bay Packers,Chicago Bears
+1,Sun,Minnesota Vikings,Atlanta Falcons
+1,Sun,Baltimore Ravens,Miami Dolphins
+1,Sun,Tennessee Titans,Cleveland Browns
+1,Sun,Los Angeles Rams,Carolina Panthers
+1,Sun,Philadelphia Eagles,Washington Redskins
+1,Sun,Buffalo Bills,New York Jets
+1,Sun,Kansas City Chiefs,Jacksonville Jaguars
+1,Sun,Los Angeles Chargers,Indianapolis Colts
+1,Sun,Seattle Seahawks,Cincinnati Bengals
+1,Sun,Dallas Cowboys,New York Giants
+1,Sun,San Francisco 49ers,Tampa Bay Buccaneers
+1,Sun,Detroit Lions,Arizona Cardinals
+1,Sun,New England Patriots,Pittsburgh Steelers
+1,Mon,New Orleans Saints,Houston Texans
+1,Mon,Oakland Raiders,Denver Broncos
+2,Thu,Tampa Bay Buccaneers,Carolina Panthers
+2,Sun,Baltimore Ravens,Arizona Cardinals
+2,Sun,Detroit Lions,Los Angeles Chargers
+2,Sun,Houston Texans,Jacksonville Jaguars
+2,Sun,New England Patriots,Miami Dolphins
+2,Sun,Indianapolis Colts,Tennessee Titans
+2,Sun,San Francisco 49ers,Cincinnati Bengals
+2,Sun,Seattle Seahawks,Pittsburgh Steelers
+2,Sun,Buffalo Bills,New York Giants
+2,Sun,Dallas Cowboys,Washington Redskins
+2,Sun,Green Bay Packers,Minnesota Vikings
+2,Sun,Kansas City Chiefs,Oakland Raiders
+2,Sun,Chicago Bears,Denver Broncos
+2,Sun,Los Angeles Rams,New Orleans Saints
+2,Sun,Atlanta Falcons,Philadelphia Eagles
+2,Mon,Cleveland Browns,New York Jets
+3,Thu,Jacksonville Jaguars,Tennessee Titans
+3,Sun,Dallas Cowboys,Miami Dolphins
+3,Sun,Detroit Lions,Philadelphia Eagles
+3,Sun,Minnesota Vikings,Oakland Raiders
+3,Sun,Indianapolis Colts,Atlanta Falcons
+3,Sun,New England Patriots,New York Jets
+3,Sun,Green Bay Packers,Denver Broncos
+3,Sun,Kansas City Chiefs,Baltimore Ravens
+3,Sun,Buffalo Bills,Cincinnati Bengals
+3,Sun,Carolina Panthers,Arizona Cardinals
+3,Sun,New York Giants,Tampa Bay Buccaneers
+3,Sun,Houston Texans,Los Angeles Chargers
+3,Sun,San Francisco 49ers,Pittsburgh Steelers
+3,Sun,New Orleans Saints,Seattle Seahawks
+3,Sun,Los Angeles Rams,Cleveland Browns
+3,Mon,Chicago Bears,Washington Redskins
+4,Thu,Philadelphia Eagles,Green Bay Packers
+4,Sun,Cleveland Browns,Baltimore Ravens
+4,Sun,Carolina Panthers,Houston Texans
+4,Sun,New England Patriots,Buffalo Bills
+4,Sun,New York Giants,Washington Redskins
+4,Sun,Los Angeles Chargers,Miami Dolphins
+4,Sun,Oakland Raiders,Indianapolis Colts
+4,Sun,Kansas City Chiefs,Detroit Lions
+4,Sun,Tennessee Titans,Atlanta Falcons
+4,Sun,Seattle Seahawks,Arizona Cardinals
+4,Sun,Tampa Bay Buccaneers,Los Angeles Rams
+4,Sun,Jacksonville Jaguars,Denver Broncos
+4,Sun,Chicago Bears,Minnesota Vikings
+4,Sun,New Orleans Saints,Dallas Cowboys
+4,Mon,Pittsburgh Steelers,Cincinnati Bengals
+5,Thu,Seattle Seahawks,Los Angeles Rams
+5,Sun,Philadelphia Eagles,New York Jets
+5,Sun,New England Patriots,Washington Redskins
+5,Sun,Arizona Cardinals,Cincinnati Bengals
+5,Sun,Baltimore Ravens,Pittsburgh Steelers
+5,Sun,Houston Texans,Atlanta Falcons
+5,Sun,New Orleans Saints,Tampa Bay Buccaneers
+5,Sun,Oakland Raiders,Chicago Bears
+5,Sun,Carolina Panthers,Jacksonville Jaguars
+5,Sun,Buffalo Bills,Tennessee Titans
+5,Sun,Minnesota Vikings,New York Giants
+5,Sun,Denver Broncos,Los Angeles Chargers
+5,Sun,Green Bay Packers,Dallas Cowboys
+5,Sun,Indianapolis Colts,Kansas City Chiefs
+5,Mon,San Francisco 49ers,Cleveland Browns
+6,Thu,New England Patriots,New York Giants
+6,Sun,Carolina Panthers,Tampa Bay Buccaneers
+6,Sun,Washington Redskins,Miami Dolphins
+6,Sun,New Orleans Saints,Jacksonville Jaguars
+6,Sun,Minnesota Vikings,Philadelphia Eagles
+6,Sun,Baltimore Ravens,Cincinnati Bengals
+6,Sun,Seattle Seahawks,Cleveland Browns
+6,Sun,Houston Texans,Kansas City Chiefs
+6,Sun,San Francisco 49ers,Los Angeles Rams
+6,Sun,Arizona Cardinals,Atlanta Falcons
+6,Sun,New York Jets,Dallas Cowboys
+6,Sun,Denver Broncos,Tennessee Titans
+6,Sun,Pittsburgh Steelers,Los Angeles Chargers
+6,Mon,Green Bay Packers,Detroit Lions
+7,Thu,Kansas City Chiefs,Denver Broncos
+7,Sun,San Francisco 49ers,Washington Redskins
+7,Sun,Indianapolis Colts,Houston Texans
+7,Sun,Minnesota Vikings,Detroit Lions
+7,Sun,Buffalo Bills,Miami Dolphins
+7,Sun,Green Bay Packers,Oakland Raiders
+7,Sun,Jacksonville Jaguars,Cincinnati Bengals
+7,Sun,Arizona Cardinals,New York Giants
+7,Sun,Los Angeles Rams,Atlanta Falcons
+7,Sun,Tennessee Titans,Los Angeles Chargers
+7,Sun,New Orleans Saints,Chicago Bears
+7,Sun,Baltimore Ravens,Seattle Seahawks
+7,Sun,Dallas Cowboys,Philadelphia Eagles
+7,Mon,New England Patriots,New York Jets
+8,Thu,Minnesota Vikings,Washington Redskins
+8,Sun,Los Angeles Chargers,Chicago Bears
+8,Sun,Philadelphia Eagles,Buffalo Bills
+8,Sun,Indianapolis Colts,Denver Broncos
+8,Sun,Detroit Lions,New York Giants
+8,Sun,New Orleans Saints,Arizona Cardinals
+8,Sun,Tennessee Titans,Tampa Bay Buccaneers
+8,Sun,Seattle Seahawks,Atlanta Falcons
+8,Sun,Jacksonville Jaguars,New York Jets
+8,Sun,Los Angeles Rams,Cincinnati Bengals
+8,Sun,San Francisco 49ers,Carolina Panthers
+8,Sun,New England Patriots,Cleveland Browns
+8,Sun,Houston Texans,Oakland Raiders
+8,Sun,Green Bay Packers,Kansas City Chiefs
+8,Mon,Pittsburgh Steelers,Miami Dolphins
+9,Thu,San Francisco 49ers,Arizona Cardinals
+9,Sun,Houston Texans,Jacksonville Jaguars
+9,Sun,Tennessee Titans,Carolina Panthers
+9,Sun,New York Jets,Miami Dolphins
+9,Sun,Minnesota Vikings,Kansas City Chiefs
+9,Sun,Washington Redskins,Buffalo Bills
+9,Sun,Chicago Bears,Philadelphia Eagles
+9,Sun,Indianapolis Colts,Pittsburgh Steelers
+9,Sun,Detroit Lions,Oakland Raiders
+9,Sun,Tampa Bay Buccaneers,Seattle Seahawks
+9,Sun,Cleveland Browns,Denver Broncos
+9,Sun,Green Bay Packers,Los Angeles Chargers
+9,Sun,New England Patriots,Baltimore Ravens
+9,Mon,Dallas Cowboys,New York Giants
+10,Thu,Los Angeles Chargers,Oakland Raiders
+10,Sun,Atlanta Falcons,New Orleans Saints
+10,Sun,Detroit Lions,Chicago Bears
+10,Sun,New York Giants,New York Jets
+10,Sun,Kansas City Chiefs,Tennessee Titans
+10,Sun,Arizona Cardinals,Tampa Bay Buccaneers
+10,Sun,Buffalo Bills,Cleveland Browns
+10,Sun,Baltimore Ravens,Cincinnati Bengals
+10,Sun,Miami Dolphins,Indianapolis Colts
+10,Sun,Los Angeles Rams,Pittsburgh Steelers
+10,Sun,Carolina Panthers,Green Bay Packers
+10,Sun,Minnesota Vikings,Dallas Cowboys
+10,Mon,Seattle Seahawks,San Francisco 49ers
+11,Thu,Pittsburgh Steelers,Cleveland Browns
+11,Sun,New Orleans Saints,Tampa Bay Buccaneers
+11,Sun,Buffalo Bills,Miami Dolphins
+11,Sun,Houston Texans,Baltimore Ravens
+11,Sun,Atlanta Falcons,Carolina Panthers
+11,Sun,New York Jets,Washington Redskins
+11,Sun,Denver Broncos,Minnesota Vikings
+11,Sun,Dallas Cowboys,Detroit Lions
+11,Sun,Jacksonville Jaguars,Indianapolis Colts
+11,Sun,Arizona Cardinals,San Francisco 49ers
+11,Sun,Cincinnati Bengals,Oakland Raiders
+11,Sun,New England Patriots,Philadelphia Eagles
+11,Sun,Chicago Bears,Los Angeles Rams
+11,Mon,Kansas City Chiefs,Los Angeles Chargers
+12,Thu,Indianapolis Colts,Houston Texans
+12,Sun,Carolina Panthers,New Orleans Saints
+12,Sun,Oakland Raiders,New York Jets
+12,Sun,Miami Dolphins,Cleveland Browns
+12,Sun,Detroit Lions,Washington Redskins
+12,Sun,Denver Broncos,Buffalo Bills
+12,Sun,New York Giants,Chicago Bears
+12,Sun,Pittsburgh Steelers,Cincinnati Bengals
+12,Sun,Tampa Bay Buccaneers,Atlanta Falcons
+12,Sun,Jacksonville Jaguars,Tennessee Titans
+12,Sun,Green Bay Packers,San Francisco 49ers
+12,Sun,Dallas Cowboys,New England Patriots
+12,Sun,Seattle Seahawks,Philadelphia Eagles
+12,Mon,Baltimore Ravens,Los Angeles Rams
+13,Thu,Chicago Bears,Detroit Lions
+13,Thu,Buffalo Bills,Dallas Cowboys
+13,Thu,New Orleans Saints,Atlanta Falcons
+13,Sun,Tampa Bay Buccaneers,Jacksonville Jaguars
+13,Sun,San Francisco 49ers,Baltimore Ravens
+13,Sun,Tennessee Titans,Indianapolis Colts
+13,Sun,Green Bay Packers,New York Giants
+13,Sun,New York Jets,Cincinnati Bengals
+13,Sun,Oakland Raiders,Kansas City Chiefs
+13,Sun,Washington Redskins,Carolina Panthers
+13,Sun,Philadelphia Eagles,Miami Dolphins
+13,Sun,Los Angeles Rams,Arizona Cardinals
+13,Sun,Cleveland Browns,Pittsburgh Steelers
+13,Sun,Los Angeles Chargers,Denver Broncos
+13,Sun,New England Patriots,Houston Texans
+13,Mon,Minnesota Vikings,Seattle Seahawks
+14,Thu,Dallas Cowboys,Chicago Bears
+14,Sun,Carolina Panthers,Atlanta Falcons
+14,Sun,Indianapolis Colts,Tampa Bay Buccaneers
+14,Sun,Baltimore Ravens,Buffalo Bills
+14,Sun,San Francisco 49ers,New Orleans Saints
+14,Sun,Cincinnati Bengals,Cleveland Browns
+14,Sun,Miami Dolphins,New York Jets
+14,Sun,Detroit Lions,Minnesota Vikings
+14,Sun,Denver Broncos,Houston Texans
+14,Sun,Washington Redskins,Green Bay Packers
+14,Sun,Los Angeles Chargers,Jacksonville Jaguars
+14,Sun,Tennessee Titans,Oakland Raiders
+14,Sun,Pittsburgh Steelers,Arizona Cardinals
+14,Sun,Kansas City Chiefs,New England Patriots
+14,Sun,Seattle Seahawks,Los Angeles Rams
+14,Mon,New York Giants,Philadelphia Eagles
+15,Thu,New York Jets,Baltimore Ravens
+15,Sun,Seattle Seahawks,Carolina Panthers
+15,Sun,Denver Broncos,Kansas City Chiefs
+15,Sun,Philadelphia Eagles,Washington Redskins
+15,Sun,Chicago Bears,Green Bay Packers
+15,Sun,New England Patriots,Cincinnati Bengals
+15,Sun,Tampa Bay Buccaneers,Detroit Lions
+15,Sun,Buffalo Bills,Pittsburgh Steelers
+15,Sun,Houston Texans,Tennessee Titans
+15,Sun,Miami Dolphins,New York Giants
+15,Sun,Jacksonville Jaguars,Oakland Raiders
+15,Sun,Cleveland Browns,Arizona Cardinals
+15,Sun,Atlanta Falcons,San Francisco 49ers
+15,Sun,Los Angeles Rams,Dallas Cowboys
+15,Sun,Minnesota Vikings,Los Angeles Chargers
+15,Mon,Indianapolis Colts,New Orleans Saints
+16,Sun,New York Giants,Washington Redskins
+16,Sun,Pittsburgh Steelers,New York Jets
+16,Sun,Carolina Panthers,Indianapolis Colts
+16,Sun,Jacksonville Jaguars,Atlanta Falcons
+16,Sun,New Orleans Saints,Tennessee Titans
+16,Sun,Baltimore Ravens,Cleveland Browns
+16,Sun,Buffalo Bills,New England Patriots
+16,Sun,Houston Texans,Tampa Bay Buccaneers
+16,Sun,Los Angeles Rams,San Francisco 49ers
+16,Sun,Oakland Raiders,Los Angeles Chargers
+16,Sun,Cincinnati Bengals,Miami Dolphins
+16,Sun,Detroit Lions,Denver Broncos
+16,Sun,Arizona Cardinals,Seattle Seahawks
+16,Sun,Dallas Cowboys,Philadelphia Eagles
+16,Sun,Kansas City Chiefs,Chicago Bears
+16,Mon,Green Bay Packers,Minnesota Vikings
+17,Sun,New York Jets,Buffalo Bills
+17,Sun,Washington Redskins,Dallas Cowboys
+17,Sun,Miami Dolphins,New England Patriots
+17,Sun,Pittsburgh Steelers,Baltimore Ravens
+17,Sun,Los Angeles Chargers,Kansas City Chiefs
+17,Sun,Philadelphia Eagles,New York Giants
+17,Sun,Chicago Bears,Minnesota Vikings
+17,Sun,Indianapolis Colts,Jacksonville Jaguars
+17,Sun,New Orleans Saints,Carolina Panthers
+17,Sun,Cleveland Browns,Cincinnati Bengals
+17,Sun,Atlanta Falcons,Tampa Bay Buccaneers
+17,Sun,Tennessee Titans,Houston Texans
+17,Sun,Green Bay Packers,Detroit Lions
+17,Sun,Oakland Raiders,Denver Broncos
+17,Sun,Arizona Cardinals,Los Angeles Rams
+17,Sun,San Francisco 49ers,Seattle Seahawks
