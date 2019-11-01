@@ -1,7 +1,7 @@
 # NFLPickEm
 GSuite App Script (script.google.com)
 --------------
-Form Generator
+FormGenerator
 --------------
 This code will generate a PickEm Google Form. Script takes about 1 minute to complete. <br>
 <br>
