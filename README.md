@@ -1,4 +1,3 @@
-# NFLPickEm
 GSuite App Script (script.google.com)
 --------------
 FormGenerator.gs
